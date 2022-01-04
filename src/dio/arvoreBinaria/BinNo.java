@@ -1,6 +1,6 @@
 package dio.arvoreBinaria;
 
-	// classe No da arvore extendendo a interface Comparable
+	// classe BinNo da arvore extendendo a interface Comparable
 public class BinNo<T extends Comparable<T>> {
 
 
